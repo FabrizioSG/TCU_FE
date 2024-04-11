@@ -112,7 +112,7 @@ export default function AccountContent() {
                                 ...(open && { display: 'none' }),
                             }}
                         >
-                            <MenuIcon />
+                            <MenuIcon/>
                         </IconButton>
                         <Typography
                             component="h1"
